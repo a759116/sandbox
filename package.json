@@ -1,0 +1,10 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "description": "Playground",
+  "main": "./sandbox.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a759116/sandbox"
+  }
+}
